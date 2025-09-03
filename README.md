@@ -6,22 +6,23 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwakumarv/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vkumxr)  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools  
 - **Languages:** Java, C, C++, Python (basic), MATLAB (basic)  
 - **Web & DB:** HTML, MySQL (basic)  
-- **OS & Tools:** Kali Linux, Ubuntu, Arch (GNOME), Windows, macOS  
-- **Other Tools:** Metasploit, Wireshark, BurpSuite, LTSpice, Xilinx Vivado, VirtualBox, UTM, QEMU  
+- **Operating Systems:** Kali Linux, Ubuntu, Arch (GNOME), Windows, macOS  
+- **IDEs & Development Tools:** IntelliJ IDEA, Code::Blocks, DOSBox, BlueJ, Scratch, Python IDLE, Keil uVision, LTSpice, MATLAB, Xilinx Vivado, VirtualBox, UTM, QEMU  
+- **Cybersecurity Tools:** Metasploit, Wireshark, BurpSuite  
 - **Core Competencies:** Data Structures, Algorithms, Debugging Techniques  
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 🔹 [**IntelliBank AI**](https://github.com/vkumxr/IntelliBank-AI-banking-assistant-java) – Conversational Banking Assistant with Spring Boot & AI  
 🔹 [**Fruit Cutter**](https://scratch.mit.edu/projects/1197626235) – Classic Fruit Ninja reimagined on Scratch  
 🔹 **FaceLog** – Automated attendance logger using Face Recognition & Python  
@@ -29,14 +30,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=vkumxr&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vkumxr&theme=tokyonight)  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 - HackOn with Amazon R1 Qualifier  
 - IEEE Student Member (2025)  
 - Java & Arduino Training – IIT Bombay  
@@ -45,8 +46,8 @@
 
 ---
 
-## 📈 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/vkumxrr?theme=dark&font=Karma&ext=contest)
+## 📈 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/vkumxrr?theme=dark&font=Karma&ext=contest)  
 
 ---
 
