@@ -25,7 +25,7 @@
 🔹 [**IntelliBank AI**](https://github.com/vkumxr/IntelliBank-AI-banking-assistant-java) – Conversational Banking Assistant with Spring Boot & AI  
 🔹 [**Fruit Cutter**](https://scratch.mit.edu/projects/1197626235) – Classic Fruit Ninja reimagined on Scratch  
 🔹 **FaceLog** – Automated attendance logger using Face Recognition & Python  
-🔹 **PuBot** – AI-powered portable robotics platform (Raspberry Pi + Arduino)  
+🔹 **PuBot** – AI-powered portable robotics platform (Raspberry Pi + Python)  
 
 ---
 
