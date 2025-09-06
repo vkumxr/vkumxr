@@ -2,7 +2,7 @@
 
 🎓 Electronics and Communication Engineering student @ PSG College of Technology  
 💻 9+ years of programming experience | Passionate about **Cybersecurity** & **AI**  
-⚡ Interests: Ethical Hacking, Red Teaming, AI-powered Robotics  
+⚡ Interests: Ethical Hacking, Blue Teaming, AI-powered Robotics
 
 ---
 
