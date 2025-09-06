@@ -17,8 +17,7 @@
 - **Web & DB:** HTML, MySQL (basic)  
 - **Operating Systems:** Kali Linux, Ubuntu, Arch (GNOME), Windows, macOS  
 - **IDEs & Development Tools:** IntelliJ IDEA, Code::Blocks, DOSBox, BlueJ, Scratch, Python IDLE, Keil uVision, LTSpice, MATLAB, Xilinx Vivado, VirtualBox, UTM, QEMU  
-- **Cybersecurity Tools:** Metasploit, Wireshark, BurpSuite  
-- **Core Competencies:** Data Structures, Algorithms, Debugging Techniques  
+- **Cybersecurity Tools:** Metasploit, Wireshark, BurpSuite
 
 ---
 
