@@ -36,7 +36,7 @@
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Certifications, Training and Achievements  
 - HackOn with Amazon (2025) Round 1 Qualifier  
 - IEEE Student Member (2025)  
 - Java & Arduino Training – IIT Bombay  
