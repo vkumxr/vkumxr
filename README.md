@@ -1,53 +1,42 @@
-# Hi there, I'm Vishwa Kumar 👋  
-
-🎓 Electronics and Communication Engineering student @ PSG College of Technology  
-💻 9+ years of programming experience | Passionate about **Cybersecurity** & **AI**  
-⚡ Interests: Ethical Hacking, Blue Teaming, AI-powered Robotics
-
----
-
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwakumarv/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vkumxr)  
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&color=32CD32&center=true&vCenter=true&width=650&lines=Vishwa+Kumar;Electronics+%26+Communication+Engineering;Cybersecurity+%7C+Linux+%7C+Robotics">
+</p>
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Languages:** Java, C, C++, Python (basic), MATLAB (basic)  
-- **Web & DB:** HTML, MySQL (basic)  
-- **Operating Systems:** Kali Linux, Ubuntu, Arch (GNOME), Windows, macOS  
-- **IDEs & Development Tools:** IntelliJ IDEA, Code::Blocks, DOSBox, BlueJ, Scratch, Python IDLE, Keil uVision, LTSpice, MATLAB, Xilinx Vivado, VirtualBox, UTM, QEMU  
-- **Cybersecurity Tools:** Metasploit, Wireshark, BurpSuite
+## I am Vishwa
+
+Hello! I'm an Electronics and Communication Engineering student with a strong interest in **cybersecurity, Linux, robotics, and backend systems**.  
+I’ve been programming for nearly **9 years**, building skills across Java, C, C++, and Python, and exploring hands-on security labs using Kali Linux.
+
+I enjoy learning new technologies, experimenting with real hardware like **Raspberry Pi**, and working on projects that blend **software + electronics**.  
+Open to networking, collaborations, and sharing knowledge — let’s connect and grow together!
 
 ---
 
-## 🚀 Projects  
-🔹 [**IntelliBank AI**](https://github.com/vkumxr/IntelliBank-AI-banking-assistant-java) – Conversational Banking Assistant with Spring Boot & AI  
-🔹 [**Fruit Cutter**](https://scratch.mit.edu/projects/1197626235) – Classic Fruit Ninja reimagined on Scratch  
-🔹 **FaceLog** – Automated attendance logger using Face Recognition & Python  
-🔹 **PuBot** – AI-powered portable robotics platform (Raspberry Pi + Python)  
+## Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishwakumarv">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin-right: 18px;" />
+  </a>
+  <a href="https://github.com/vkumxr">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="40" style="filter: invert(1);" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=vkumxr&show_icons=true&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=vkumxr&theme=tokyonight)  
+## Languages and Tools:
 
----
-
-## 🏆 Certifications, Training and Achievements  
-- HackOn with Amazon (2025) Round 1 Qualifier  
-- IEEE Student Member (2025)  
-- Java & Arduino Training – IIT Bombay  
-- Cybersecurity Fundamentals – LearnTube.ai  
-- Kotlin Programming Certification – LearnTube.ai  
-
----
-
-## 📈 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/vkumxrr?theme=dark&font=Karma&ext=contest)  
-
----
-
-✨ *“Combining software development expertise with cybersecurity knowledge to build secure, innovative solutions.”*  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(1);" />
+</p>
