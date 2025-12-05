@@ -18,8 +18,10 @@ Open to networking, collaborations, and sharing knowledge — let’s connect an
 Check out my portfolio:
 🔗 https://vkumxr.github.io/portfolio
 
----
 
+![Profile Views](https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
 ## Connect with me:
 
 <p align="left">
