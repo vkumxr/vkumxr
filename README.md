@@ -23,21 +23,25 @@ Check out my portfolio:
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishwakumarv">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="40" style="margin-right: 18px;" />
-  </a>
-
   <a href="https://github.com/vkumxr">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
-         width="40" style="margin-right: 18px;" />
+    <img src="https://cdn.simpleicons.org/github/000/fff" height="40" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/vishwakumar_vk/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
-         width="40" />
+    <img src="https://cdn.simpleicons.org/instagram/000/fff" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/vkumxrr">
+    <img src="https://cdn.simpleicons.org/x/000/fff" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishwakumarv">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="40" />
   </a>
 </p>
+
+
+
 
 
 ---
