@@ -15,6 +15,9 @@ I’ve been programming for nearly 9 years, building skills across Java, C, C++,
 I enjoy learning new technologies, experimenting with real hardware like Arduino and Raspberry Pi, and working on projects that blend software + electronics.
 Open to networking, collaborations, and sharing knowledge — let’s connect and grow together!
 
+Check out my portfolio:
+🔗 https://vkumxr.github.io/portfolio
+
 ---
 
 ## Connect with me:
