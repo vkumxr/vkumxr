@@ -16,7 +16,7 @@ I enjoy learning new technologies, experimenting with real hardware like Arduino
 Open to networking, collaborations, and sharing knowledge — let’s connect and grow together!
 
 Check out my portfolio:
-🔗 https://vkumxr.github.io/portfolio
+🔗 https://vkumxr.github.io
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=0e75b6&style=flat)
