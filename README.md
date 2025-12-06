@@ -70,24 +70,34 @@ Check out my portfolio:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL" />
+
+  <!-- Web Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 
   <!-- Operating Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" width="40" title="Debian Linux" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" title="Kali Linux" />
   <img src="https://cdn.simpleicons.org/parrotsecurity/00A8E1" width="40" title="Parrot OS" />
+  <img src="https://cdn.simpleicons.org/lineageos/167C80" width="40" title="LineageOS" />
+
+  <!-- Hardware Platforms -->
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40" title="Raspberry Pi" />
 
   <!-- Frameworks & Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 
-  <!-- GitHub (your inverted icon) -->
+  <!-- Platforms -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
 
-  <!-- IDEs -->
+  <!-- IDEs / Code Editors -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
 
-  <!-- Engineering / ECE Tools -->
+  <!-- Engineering Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
   <img src="https://cdn.simpleicons.org/ltspice/E2231A" width="40" title="LTspice" />
 
