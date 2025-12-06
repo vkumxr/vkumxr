@@ -64,30 +64,31 @@ Check out my portfolio:
 ## Languages, Tools and Platforms
 
 <p align="left">
+
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 
-  <!-- OS & Frameworks -->
+  <!-- Operating Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-
-  <!-- GitHub Icon (your inverted version) -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
-
-  <!-- IDEs & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
-
-  <!-- LTSpice -->
-  <img src="https://cdn.simpleicons.org/ltspice/E2231A" width="40" title="LTspice" />
-
-  <!-- Extra Linux Distros -->
   <img src="https://cdn.simpleicons.org/debian/A81D33" width="40" title="Debian Linux" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" title="Kali Linux" />
   <img src="https://cdn.simpleicons.org/parrotsecurity/00A8E1" width="40" title="Parrot OS" />
-</p>
 
+  <!-- Frameworks & Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+
+  <!-- GitHub (your inverted icon) -->
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
+
+  <!-- IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
+
+  <!-- Engineering / ECE Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/ltspice/E2231A" width="40" title="LTspice" />
+
+</p>
