@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=ECE+Student;Programmer;CTF+Player" alt="typing" />
 </p>
 
-
 ---
 
 ## Hey! This is Vishwa
@@ -12,23 +11,41 @@ Hello! I'm an Electronics and Communication Engineering student with a strong in
 
 I’ve been programming for nearly 9 years, building skills across Java, C, C++, and Python, and exploring hands-on security labs.
 
-I enjoy learning new technologies, experimenting with real hardware like Arduino and Raspberry Pi, and working on projects that blend software + electronics.
+I enjoy learning new technologies, experimenting with real hardware like Arduino and Raspberry Pi, and working on projects that blend software + electronics.  
 Open to networking, collaborations, and sharing knowledge — let’s connect and grow together!
 
-Check out my portfolio:
+Check out my portfolio:  
 🔗 https://vkumxr.github.io
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
-## Connect with me:
+
+## Profiles:
 
 <p align="left">
   <a href="https://github.com/vkumxr">
     <img src="https://cdn.simpleicons.org/github/000/fff" height="40" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vkumxrr/">
+    <img src="https://cdn.simpleicons.org/leetcode/000/fff" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/vkumxr">
+    <img src="https://cdn.simpleicons.org/tryhackme/000/fff" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/users/2569138">
+    <img src="https://cdn.simpleicons.org/hackthebox/000/fff" height="40" />
+  </a>
+</p>
+
+---
+
+## Connect with me:
+
+<p align="left">
   <a href="https://www.instagram.com/vishwakumar_vk/">
     <img src="https://cdn.simpleicons.org/instagram/000/fff" height="40" />
   </a>
@@ -42,21 +59,35 @@ Check out my portfolio:
   </a>
 </p>
 
-
-
-
-
 ---
 
-## Languages and Tools:
+## Languages, Tools and Platforms
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" style="filter: invert(1);" />
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+
+  <!-- OS & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+
+  <!-- GitHub Icon (your inverted version) -->
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
+
+  <!-- IDEs & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
+
+  <!-- LTSpice -->
+  <img src="https://cdn.simpleicons.org/ltspice/E2231A" width="40" title="LTspice" />
+
+  <!-- Extra Linux Distros -->
+  <img src="https://cdn.simpleicons.org/debian/A81D33" width="40" title="Debian Linux" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" title="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/parrotsecurity/00A8E1" width="40" title="Parrot OS" />
 </p>
+
