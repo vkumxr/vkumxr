@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=ECE+Student;Programmer;CTF+Player" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=Programmer;CTF+Player;I+use+Arch+btw.." alt="typing" />
 </p>
 
 ---
@@ -43,67 +43,71 @@ Check out my portfolio:
 
 ---
 
-## Connect with me:
+# **Technical Skills**
 
+## **Programming Languages**
 <p align="left">
-  <a href="https://www.instagram.com/vishwakumar_vk/">
-    <img src="https://cdn.simpleicons.org/instagram/000/fff" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/vkumxrr">
-    <img src="https://cdn.simpleicons.org/x/000/fff" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishwakumarv">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="40" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/c" width="45" />
+  <img src="https://cdn.simpleicons.org/cplusplus" width="45" />
+  <img src="https://cdn.simpleicons.org/python" width="45" />
+  <img src="https://cdn.simpleicons.org/html5" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/javascript" width="45" />
 </p>
 
 ---
 
-## Languages, Tools and Platforms
-
+## **Operating Systems**
 <p align="left">
-
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL" />
-
-  <!-- Web Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-
-  <!-- Operating Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" width="40" title="Debian Linux" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" title="Kali Linux" />
-  <img src="https://cdn.simpleicons.org/parrotsecurity/00A8E1" width="40" title="Parrot OS" />
-  <img src="https://cdn.simpleicons.org/lineageos/167C80" width="40" title="LineageOS" />
-
-  <!-- Hardware Platforms -->
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40" title="Raspberry Pi" />
-
-  <!-- Frameworks & Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-
-  <!-- Platforms -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
-
-  <!-- IDEs / Code Editors -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-
-  <!-- Engineering Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/ltspice/E2231A" width="40" title="LTspice" />
-
+  <img src="https://cdn.simpleicons.org/linux" width="45" />
+  <img src="https://cdn.simpleicons.org/debian" width="45" />
+  <img src="https://cdn.simpleicons.org/kalilinux" width="45" />
+  <img src="https://cdn.simpleicons.org/raspberrypi" width="45" />
+  <img src="https://cdn.simpleicons.org/lineageos" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/apple" width="45" />
 </p>
 
+---
 
+## **Backend & Frameworks**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/spring" width="45" />
+  <img src="https://cdn.simpleicons.org/mysql" width="45" />
+</p>
+
+---
+
+## **Tools & IDEs**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git" width="45" />
+  <img src="https://cdn.simpleicons.org/github" width="45" />
+  <img src="https://cdn.simpleicons.org/intellijidea" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" />
+</p>
+
+---
+
+## **ML / Data Science**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/tensorflow" width="45" />
+  <img src="https://cdn.simpleicons.org/pytorch" width="45" />
+  <img src="https://cdn.simpleicons.org/numpy" width="45" />
+  <img src="https://cdn.simpleicons.org/pandas" width="45" />
+</p>
+
+---
+
+## **Cybersecurity Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="45" />
+  <img src="https://cdn.simpleicons.org/portswigger" width="45" />
+</p>
+
+---
 
 ## Contribution Graph
 
