@@ -7,12 +7,15 @@
 
 ## Hey! This is Vishwa
 
-Hello! I'm an Electronics and Communication Engineering student with a strong interest in cybersecurity, Linux, robotics, and backend systems.
+👋 Hi, I’m Vishwa Kumar — someone who loves to build, break, and understand technology
 
-I’ve been programming for nearly 9 years, building skills across Java, C, C++, and Python, and exploring hands-on security labs.
+I’m an Electronics and Communication Engineering student with a strong passion for AI, robotics, cybersecurity, and system-level projects.
+I enjoy experimenting, researching, and building solutions that blend hardware intuition with software engineering.
 
-I enjoy learning new technologies, experimenting with real hardware like Arduino and Raspberry Pi, and working on projects that blend software + electronics.  
-Open to networking, collaborations, and sharing knowledge — let’s connect and grow together!
+Along the way, I’ve:
+- Explored multiple domains including AI, embedded systems, and network security
+- Built personal tools, projects, and experiment-based learning repositories
+- Started contributing to open-source workflows with Linux and GitHub
 
 Check out my portfolio:  
 🔗 https://vkumxr.github.io
