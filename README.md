@@ -54,6 +54,20 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
   <a href="https://app.hackthebox.com/users/2569138">
     <img src="https://cdn.simpleicons.org/hackthebox/fff" height="40" />
   </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vishwakumarv/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/vishwakumar_vk/">
+    <img src="https://cdn.simpleicons.org/instagram/fff" height="40" />
+  </a>
 </p>
 
 ---
