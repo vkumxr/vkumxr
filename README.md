@@ -146,8 +146,9 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ## 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vkumxr&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
 
 ---
 
