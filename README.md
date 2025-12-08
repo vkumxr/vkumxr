@@ -143,8 +143,14 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ## Tools & IDEs
 <p align="left">
-  <img src="https://cdn.simpleicons.org/git" width="45" />
-  <img src="https://cdn.simpleicons.org/github" width="45" />
+  <img src="https://cdn.simpleicons.org/git" width="45" /><a href="https://github.com/vkumxr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/intellijidea" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" />
