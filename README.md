@@ -1,15 +1,3 @@
-<style>
-img.social-icon {
-  filter: invert(0); /* light mode: black */
-}
-
-@media (prefers-color-scheme: dark) {
-  img.social-icon {
-    filter: invert(1); /* dark mode: white */
-  }
-}
-</style>
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
