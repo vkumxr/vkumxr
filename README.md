@@ -1,3 +1,8 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
+</p>
+
 <!-- Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=Programmer;CTF+Player;I+use+Arch+btw.." alt="typing" />
@@ -33,22 +38,30 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ## Profiles
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/vkumxr">
-    <img src="https://cdn.simpleicons.org/github/000/fff" height="40" />
+    <img src="https://cdn.simpleicons.org/github/fff" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/vkumxrr/">
-    <img src="https://cdn.simpleicons.org/leetcode/000/fff" height="40" />
+    <img src="https://cdn.simpleicons.org/leetcode/fff" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/vkumxr">
-    <img src="https://cdn.simpleicons.org/tryhackme/000/fff" height="40" />
+    <img src="https://cdn.simpleicons.org/tryhackme/fff" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://app.hackthebox.com/users/2569138">
-    <img src="https://cdn.simpleicons.org/hackthebox/000/fff" height="40" />
+    <img src="https://cdn.simpleicons.org/hackthebox/fff" height="40" />
   </a>
+</p>
+
+---
+
+# 🥇 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vkumxr&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -131,11 +144,6 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vkumxr&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
 ---
 
 ## Contribution Graph
@@ -144,8 +152,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-# 🐍 Contribution Snake
-
+# 🐍 Contribution Snake (Dark + Large)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake-dark.svg?palette=github-dark&width=1600" />
@@ -155,3 +162,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer" />
+</p>
