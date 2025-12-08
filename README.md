@@ -55,7 +55,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 # **Technical Skills**
 
-## **Programming Languages**
+## Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   <img src="https://cdn.simpleicons.org/c" width="45" />
@@ -68,7 +68,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-## **Operating Systems**
+## Operating Systems
 <p align="left">
   <img src="https://cdn.simpleicons.org/linux" width="45" />
   <img src="https://cdn.simpleicons.org/debian" width="45" />
@@ -81,7 +81,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-## **Backend & Frameworks**
+## Backend & Frameworks
 <p align="left">
   <img src="https://cdn.simpleicons.org/spring" width="45" />
   <img src="https://cdn.simpleicons.org/mysql" width="45" />
@@ -89,7 +89,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-## **Tools & IDEs**
+## Tools & IDEs
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" width="45" />
   <img src="https://cdn.simpleicons.org/github" width="45" />
@@ -100,7 +100,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-## **ML / Data Science**
+## ML / Data Science
 <p align="left">
   <img src="https://cdn.simpleicons.org/tensorflow" width="45" />
   <img src="https://cdn.simpleicons.org/pytorch" width="45" />
@@ -110,7 +110,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-## **Cybersecurity Tools**
+## Cybersecurity Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="45" />
   <img src="https://cdn.simpleicons.org/wireshark" width="45" />
@@ -121,17 +121,17 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 # 📊 GitHub Stats & Activity
 
-### **🔥 Streak Stats**
+### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight" />
 </p>
 
-### **📦 Top Languages**
+### 📦 Top Languages
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight" />
 </p>
 
-### **🏆 GitHub Trophies**
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vkumxr&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
 </p>
@@ -144,7 +144,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-# 🐍 Contribution Snake (Dark Mode + Large)
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
