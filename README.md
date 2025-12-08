@@ -147,7 +147,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-# 🐍 Contribution Snake (Dark + Large)
+# 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake-dark.svg?palette=github-dark&width=1600" />
