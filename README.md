@@ -128,7 +128,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ### **📦 Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight" />
 </p>
 
 ### **🏆 GitHub Trophies**
@@ -144,10 +144,14 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+# 🐍 Contribution Snake (Dark Mode + Large)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake-dark.svg?palette=github-dark&width=1600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg?width=1600" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg?width=1600" />
+  </picture>
 </p>
 
 ---
-
