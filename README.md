@@ -7,24 +7,31 @@
 
 ## Hey! This is Vishwa
 
-👋 Hi, I’m Vishwa Kumar — someone who loves to build, break, and understand technology
+👋 Hi, I’m Vishwa Kumar — someone who loves to build, break, and understand technology.
 
-I’m an Electronics and Communication Engineering student with a strong passion for AI, robotics, cybersecurity, and system-level projects.
+I’m an Electronics and Communication Engineering student with a strong passion for AI, robotics, cybersecurity, and system-level projects.  
 I enjoy experimenting, researching, and building solutions that blend hardware intuition with software engineering.
 
-Along the way, I’ve:
-- Explored multiple domains including AI, embedded systems, and network security
-- Built personal tools, projects, and experiment-based learning repositories
-- Started contributing to open-source workflows with Linux and GitHub
+### **Highlights**
+- Built teleoperated robots, AI-driven tools, and system-level utilities  
+- Worked on embedded systems, Linux internals, and network security  
+- Created multiple experimental & learning-based repositories  
+- Contribute to open-source workflows using Linux and GitHub  
 
-Check out my portfolio:  
+### **Current Focus**
+- AI + embedded robotics projects  
+- Cybersecurity labs, CTF practice, and network analysis  
+- Developing automation tools and backend systems  
+- Strengthening Linux internals & low-level understanding  
+
+📁 **Portfolio:**  
 🔗 https://vkumxr.github.io
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## Profiles:
+## Profiles
 
 <p align="left">
   <a href="https://github.com/vkumxr">
@@ -112,6 +119,35 @@ Check out my portfolio:
 
 ---
 
+# 📊 GitHub Stats & Activity
+
+### **🔥 Streak Stats**
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight" />
+</p>
+
+### **📦 Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight" />
+</p>
+
+### **🏆 GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vkumxr&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 ## Contribution Graph
 
 ![Vishwa's GitHub contributions](https://github.pumbas.net/api/contributions/vkumxr)
+
+---
+
+## 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
