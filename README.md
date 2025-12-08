@@ -1,3 +1,15 @@
+<style>
+img.social-icon {
+  filter: invert(0); /* light mode: black */
+}
+
+@media (prefers-color-scheme: dark) {
+  img.social-icon {
+    filter: invert(1); /* dark mode: white */
+  }
+}
+</style>
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
@@ -39,10 +51,37 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
 ## Profiles
 
 <p align="center">
+
+  <!-- GitHub -->
   <a href="https://github.com/vkumxr">
-    <img src="https://cdn.simpleicons.org/github/fff" height="40" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40">
+    </picture>
   </a>
   &nbsp;&nbsp;
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/vishwakumar_vk/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vishwakumarv/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/vkumxrr/">
     <img src="https://cdn.simpleicons.org/leetcode/fff" height="40" />
   </a>
@@ -55,21 +94,7 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
     <img src="https://cdn.simpleicons.org/hackthebox/fff" height="40" />
   </a>
   &nbsp;&nbsp;
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vishwakumarv/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/vishwakumar_vk/">
-    <img src="https://cdn.simpleicons.org/instagram/fff" height="40" />
-  </a>
-</p>
-
+  
 ---
 
 # 🥇 Achievements
