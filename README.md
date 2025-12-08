@@ -139,11 +139,6 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
   <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight" />
 </p>
 
-### 📦 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## Contribution Graph
