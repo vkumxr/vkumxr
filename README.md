@@ -14,7 +14,7 @@
 
 👋 Hi, I’m Vishwa Kumar — someone who loves to build, break, and understand technology.
 
-I’m an Electronics and Communication Engineering student with a strong passion for AI, robotics, cybersecurity, and system-level projects.  
+I’m an Engineering student with a strong passion for AI, robotics, cybersecurity, and system-level projects.  
 I enjoy experimenting, researching, and building solutions that blend hardware intuition with software engineering.
 
 ### **Highlights**
