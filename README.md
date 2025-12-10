@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=Programmer;CTF+Player;I+use+Arch+btw.." alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=Programmer;CTF+Player;I+use+Arch+btw..." alt="typing" />
 </p>
 
 ---
