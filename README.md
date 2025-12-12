@@ -69,7 +69,6 @@ I enjoy experimenting, researching, and building solutions that blend hardware i
     </picture>
   </a>
   &nbsp;&nbsp;
-
   <a href="https://leetcode.com/u/vkumxrr/">
     <img src="https://cdn.simpleicons.org/leetcode/fff" height="40" />
   </a>
