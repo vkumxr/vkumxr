@@ -9,8 +9,11 @@
 </p>
 
 ---
-
 ## Hey! This is Vishwa
+
+**AI & Cybersecurity Enthusiast | Reverse Engineering & System-Level Engineering**  
+Building tools and experiments that bridge software internals, security analysis, and hardware understanding.
+
 
 👋 Hi, I’m Vishwa Kumar — someone who loves to build, break, and understand technology.
 
