@@ -3,42 +3,47 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Typing SVG Header -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=Programmer;Learning+Cyber+%26+AI;Building+AI+Automation+Systems" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems" alt="typing" />
 </p>
 
 ---
-## Hey👋 This is Vishwa
+
+## 👋 Hey, I’m Vishwa Kumar
 
 **Linux & Cybersecurity Enthusiast | AI & Robotics | Software Development**
 
-**Building tools and experiments that bridge software internals, security analysis, and hardware understanding.**
+I build tools and experiments that sit at the intersection of **software internals, security analysis, and hardware understanding**.
 
+I’m an Engineering student passionate about understanding how systems work at a deep level — from low-level Linux internals to AI-assisted security tooling. I enjoy building, breaking, analyzing, and improving systems through hands-on experimentation.
 
+---
 
+### 🚀 Highlights
+- Built **teleoperated robots**, AI-driven tools, and system-level utilities  
+- Worked with **embedded systems**, Linux internals, and network security  
+- Developed multiple **experimental and learning-focused repositories**  
+- Actively contribute to **open-source workflows** using Linux and GitHub  
 
-👋 Hi, I’m Vishwa Kumar — someone who loves to build, break, and understand technology.
+---
 
-I’m an Engineering student with a strong passion for AI, robotics, cybersecurity, and system-level projects.  
-I enjoy experimenting, researching, and building solutions that blend hardware intuition with software engineering.
-
-### **Highlights**
-- Built teleoperated robots, AI-driven tools, and system-level utilities  
-- Worked on embedded systems, Linux internals, and network security  
-- Created multiple experimental & learning-based repositories  
-- Contribute to open-source workflows using Linux and GitHub  
-
-### **Current Focus**
-- AI + embedded robotics projects  
+### 🎯 Current Focus
+- AI-integrated embedded and robotics projects  
 - Cybersecurity labs, CTF practice, and network analysis  
-- Developing automation tools and backend systems  
-- Strengthening Linux internals & low-level understanding  
+- Automation tools, backend systems, and security utilities  
+- Strengthening low-level Linux and system engineering skills  
 
-📁 **Portfolio:**  
-🔗 https://vkumxr.github.io
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=0e75b6&style=flat)
+### 🌐 Portfolio
+🔗 **https://vkumxr.github.io**
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=32CD32&style=flat" />
+</p>
 
 ---
 
