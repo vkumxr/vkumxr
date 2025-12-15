@@ -47,55 +47,36 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-## Profiles
-
+## 🔗 Profiles
 <p align="center">
-
-  <!-- GitHub -->
   <a href="https://github.com/vkumxr">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40">
-    </picture>
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
   </a>
   &nbsp;&nbsp;
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/vishwakumar_vk/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40">
-    </picture>
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" height="40" />
   </a>
   &nbsp;&nbsp;
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vishwakumarv/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40">
-    </picture>
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/vkumxrr/">
-    <img src="https://cdn.simpleicons.org/leetcode/fff" height="40" />
+    <img src="https://cdn.simpleicons.org/leetcode/ffffff" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/vkumxr">
-    <img src="https://cdn.simpleicons.org/tryhackme/fff" height="40" />
+    <img src="https://cdn.simpleicons.org/tryhackme/ffffff" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://app.hackthebox.com/users/2569138">
-    <img src="https://cdn.simpleicons.org/hackthebox/fff" height="40" />
+    <img src="https://cdn.simpleicons.org/hackthebox/ffffff" height="40" />
   </a>
-  &nbsp;&nbsp;
-  
+</p>
+
 ---
 
-# **Technical Skills**
+# 🛠 Technical Skills
 
 ## Programming Languages
 <p align="left">
@@ -133,14 +114,7 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ## Tools & IDEs
 <p align="left">
-  <img src="https://cdn.simpleicons.org/git" width="45" /><a href="https://github.com/vkumxr">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" width="45" />
   <img src="https://cdn.simpleicons.org/intellijidea" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" />
@@ -160,34 +134,41 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ## Cybersecurity Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/metasploit" width="45" />
   <img src="https://cdn.simpleicons.org/wireshark" width="45" />
   <img src="https://cdn.simpleicons.org/portswigger" width="45" />
 </p>
 
 ---
 
-# 📊 GitHub Stats & Activity
+# 📊 Current GitHub Stats
 
-### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vkumxr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-## Contribution Graph
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## 📈 Contribution Graph
 ![Vishwa's GitHub contributions](https://github.pumbas.net/api/contributions/vkumxr)
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake-dark.svg?palette=github-dark&width=1600" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake-dark.svg?width=1600" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg?width=1600" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg?width=1600" />
+    <img src="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake.svg?width=1600" />
   </picture>
 </p>
 
