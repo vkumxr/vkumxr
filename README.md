@@ -35,7 +35,7 @@ I’m an Engineering student passionate about understanding how systems work at 
 ---
 
 ### 🚀 Highlights
-- Built **teleoperated robots**, AI-driven tools, and system-level utilities  
+- Built **teleoperated systems**, AI-driven tools, and system-level utilities  
 - Worked with **embedded systems**, Linux internals, and network security  
 - Developed multiple **experimental and learning-focused repositories**  
 - Actively contribute to **open-source workflows** using Linux and GitHub  
