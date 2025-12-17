@@ -20,6 +20,20 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
+## 🧩 Currently Building
+- **ReDroid-AI** — AI-assisted static analysis & reverse engineering for Android APKs  
+- System automation & security tooling on Linux  
+- Experimental AI pipelines for behavioral and signal-level analysis  
+
+---
+
+## ⭐ Featured Projects
+- **ReDroid-AI [WIP]** → AI-powered Android reverse engineering  
+- **IntelliBank-AI** → AI-based banking assistant (Java)  
+- **Pubot** → Robotics + control + AI experimentation  
+
+---
+
 ### 🚀 Highlights
 - Built **teleoperated robots**, AI-driven tools, and system-level utilities  
 - Worked with **embedded systems**, Linux internals, and network security  
@@ -32,29 +46,14 @@ I’m an Engineering student passionate about understanding how systems work at 
 - AI-integrated embedded and robotics projects  
 - Cybersecurity labs, CTF practice, and network analysis  
 - Automation tools, backend systems, and security utilities  
-- Strengthening low-level Linux and system engineering skills
-
----
-
-## 🧩 Currently Building
-- **ReDroid-AI** — AI-assisted static analysis & reverse engineering for Android APKs  
-- System automation & security tooling on Linux  
-- Experimental AI pipelines for behavioral and signal-level analysis
-
-
----
-
-## ⭐ Featured Projects
-- **ReDroid-AI [WIP]** → AI-powered Android reverse engineering  
-- **IntelliBank-AI** → AI-based banking assistant (Java)  
-- **Pubot** → Robotics + control + AI experimentation  
+- Strengthening low-level Linux and system engineering skills  
 
 ---
 
 ## 🤝 Open To
 - Open-source collaboration  
 - Security research & tooling  
-- System-level and AI-driven engineering projects
+- System-level and AI-driven engineering projects  
 
 ---
 
@@ -126,20 +125,19 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-## Backend & Frameworks
+## Cybersecurity Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/spring" width="45" />
-  <img src="https://cdn.simpleicons.org/mysql" width="45" />
+  <img src="https://cdn.simpleicons.org/metasploit" width="45" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="45" />
+  <img src="https://cdn.simpleicons.org/portswigger" width="45" />
 </p>
 
 ---
 
-## Tools & IDEs
+## Backend & Frameworks
 <p align="left">
-  <img src="https://cdn.simpleicons.org/git" width="45" />
-  <img src="https://cdn.simpleicons.org/intellijidea" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/spring" width="45" />
+  <img src="https://cdn.simpleicons.org/mysql" width="45" />
 </p>
 
 ---
@@ -154,17 +152,17 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-## Cybersecurity Tools
+## Tools & IDEs
 <p align="left">
-  <img src="https://cdn.simpleicons.org/metasploit" width="45" />
-  <img src="https://cdn.simpleicons.org/wireshark" width="45" />
-  <img src="https://cdn.simpleicons.org/portswigger" width="45" />
+  <img src="https://cdn.simpleicons.org/git" width="45" />
+  <img src="https://cdn.simpleicons.org/intellijidea" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" />
 </p>
 
 ---
 
 # 📊 Current GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vkumxr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   &nbsp;&nbsp;
@@ -182,7 +180,6 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ## 📈 Contribution Graph
 ![Vishwa's GitHub contributions](https://github.pumbas.net/api/contributions/vkumxr)
-
 
 ---
 
