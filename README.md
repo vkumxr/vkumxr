@@ -44,6 +44,13 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
+## ⭐ Featured Projects
+- **ReDroid-AI [WIP]** → AI-powered Android reverse engineering  
+- **IntelliBank-AI** → AI-based banking assistant (Java)  
+- **Pubot** → Robotics + control + AI experimentation  
+
+---
+
 ### 🌐 Portfolio
 🔗 **https://vkumxr.github.io**
 
