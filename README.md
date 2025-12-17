@@ -32,7 +32,15 @@ I’m an Engineering student passionate about understanding how systems work at 
 - AI-integrated embedded and robotics projects  
 - Cybersecurity labs, CTF practice, and network analysis  
 - Automation tools, backend systems, and security utilities  
-- Strengthening low-level Linux and system engineering skills  
+- Strengthening low-level Linux and system engineering skills
+
+---
+
+## 🧩 Currently Building
+- **ReDroid-AI** — AI-assisted static analysis & reverse engineering for Android APKs  
+- System automation & security tooling on Linux  
+- Experimental AI pipelines for behavioral and signal-level analysis
+
 
 ---
 
