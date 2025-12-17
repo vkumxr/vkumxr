@@ -51,6 +51,13 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
+## 🤝 Open To
+- Open-source collaboration  
+- Security research & tooling  
+- System-level and AI-driven engineering projects
+
+---
+
 ### 🌐 Portfolio
 🔗 **https://vkumxr.github.io**
 
