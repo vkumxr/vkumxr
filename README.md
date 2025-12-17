@@ -16,7 +16,7 @@
 
 I build tools and experiments that sit at the intersection of **software internals, security analysis, and hardware understanding**.
 
-I’m an Engineering student passionate about understanding how systems work at a deep level — from low-level Linux internals to AI-assisted security tooling. I enjoy building, breaking, analyzing, and improving systems through hands-on experimentation.
+I’m an Engineering student passionate about understanding how systems work at a deep level — from low-level Linux internals to AI-assisted security tooling. I design, instrument, reverse, and automate systems to understand their behavior at a fundamental level.
 
 ---
 
