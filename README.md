@@ -169,9 +169,8 @@ I’m an Engineering student focused on understanding *how systems actually work
 ---
 
 ## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkumxr&theme=tokyonight&hide_border=true" />
-</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vkumxr&theme=tokyonight&hide_border=true)
 
 
 ---
