@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
 </p>
 
-
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=32CD32&center=true&vCenter=true&width=650&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems" alt="typing" />
