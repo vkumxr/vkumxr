@@ -140,15 +140,16 @@ I’m an Engineering student passionate about understanding how systems work at 
   <img src="https://cdn.simpleicons.org/mysql" width="45" />
 </p>
 
----
 
-## ML / Data Science
+
+<!-- ## ML / Data Science
 <p align="left">
   <img src="https://cdn.simpleicons.org/tensorflow" width="45" />
   <img src="https://cdn.simpleicons.org/pytorch" width="45" />
   <img src="https://cdn.simpleicons.org/numpy" width="45" />
   <img src="https://cdn.simpleicons.org/pandas" width="45" />
-</p>
+</p> -->
+>
 
 ---
 
