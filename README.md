@@ -158,20 +158,10 @@ I’m an Engineering student focused on understanding *how systems actually work
 
 ---
 
-# 📊 GitHub Activity
-
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkumxr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=vkumxr&theme=tokyonight&hide_border=true)
-
 
 ---
 
