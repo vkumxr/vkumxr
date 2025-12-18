@@ -10,57 +10,55 @@
 
 ---
 
-## 👋 Hey, I’m Vishwa Kumar
+## 👋 Hi, I’m Vishwa Kumar
 
-**Linux & Cybersecurity Enthusiast | AI & Robotics | Software Development**
+**Linux & Cybersecurity Enthusiast | AI & Robotics | System-Level Software**
 
-I build tools and experiments that sit at the intersection of **software internals, security analysis, and hardware understanding**.
+I build **deep-tech tools** at the intersection of **software internals, security analysis, and hardware-aware systems**.
 
-I’m an Engineering student passionate about understanding how systems work at a deep level — from low-level Linux internals to AI-assisted security tooling. I design, instrument, reverse, and automate systems to understand their behavior at a fundamental level.
+I’m an Engineering student focused on understanding *how systems actually work* — from Linux internals and low-level behavior to AI-assisted reverse engineering and automation. I enjoy designing, breaking, instrumenting, and rebuilding systems to reason about them at a fundamental level.
 
 ---
 
-## 🧩 Currently Building
+## 🧠 What I’m Actively Working On
 - **ReDroid-AI** — AI-assisted static analysis & reverse engineering for Android APKs  
-- System automation & security tooling on Linux  
-- Experimental AI pipelines for behavioral and signal-level analysis  
+- Linux-based **system automation & security tooling**  
+- Experimental **AI pipelines** for behavioral, structural, and signal-level analysis  
 
 ---
 
 ## ⭐ Featured Projects
-- **ReDroid-AI [WIP]** → AI-powered Android reverse engineering  
-- **IntelliBank-AI** → AI-based banking assistant (Java)  
-- **Pubot** → Robotics + control + AI experimentation  
+- **ReDroid-AI [WIP]** → AI-powered Android reverse engineering framework  
+- **IntelliBank-AI** → AI-based banking assistant (Java backend)  
+- **Pubot** → Robotics + control systems + AI experimentation  
 
 ---
 
-### 🚀 Highlights
-- Built **teleoperated systems**, AI-driven tools, and system-level utilities  
-- Worked with **embedded systems**, Linux internals, and network security  
-- Developed multiple **experimental and learning-focused repositories**  
-- Actively contribute to **open-source workflows** using Linux and GitHub  
+## 🚀 Highlights
+- Built **teleoperated systems**, AI-driven utilities, and system-level tools  
+- Hands-on experience with **embedded systems**, Linux internals, and networking  
+- Developed multiple **experimental & learning-driven repositories**  
+- Active in **open-source workflows** using Linux, GitHub, and automation  
 
 ---
 
-### 🎯 Current Focus
-- AI-integrated embedded and robotics projects  
-- Cybersecurity labs, CTF practice, and network analysis  
-- Automation tools, backend systems, and security utilities  
-- Strengthening low-level Linux and system engineering skills  
+## 🎯 Current Focus Areas
+- AI-integrated embedded & robotics projects  
+- Cybersecurity labs, CTF practice, and traffic/network analysis  
+- Automation tooling, backend systems, and security utilities  
+- Strengthening **low-level Linux & system engineering** foundations  
 
 ---
 
 ## 🤝 Open To
 - Open-source collaboration  
 - Security research & tooling  
-- System-level and AI-driven engineering projects  
+- System-level, AI-driven engineering projects  
 
 ---
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 🔗 **https://vkumxr.github.io**
-
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=32CD32&style=flat" />
@@ -97,7 +95,7 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Technical Skill Stack
 
 ## Programming Languages
 <p align="left">
@@ -112,7 +110,7 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-## Operating Systems
+## Operating Systems & Platforms
 <p align="left">
   <img src="https://cdn.simpleicons.org/linux" width="45" />
   <img src="https://cdn.simpleicons.org/debian" width="45" />
@@ -125,7 +123,7 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-## Cybersecurity Tools
+## Cybersecurity Tooling
 <p align="left">
   <img src="https://cdn.simpleicons.org/metasploit" width="45" />
   <img src="https://cdn.simpleicons.org/wireshark" width="45" />
@@ -140,8 +138,6 @@ I’m an Engineering student passionate about understanding how systems work at 
   <img src="https://cdn.simpleicons.org/mysql" width="45" />
 </p>
 
-
-
 <!-- ## ML / Data Science
 <p align="left">
   <img src="https://cdn.simpleicons.org/tensorflow" width="45" />
@@ -149,7 +145,6 @@ I’m an Engineering student passionate about understanding how systems work at 
   <img src="https://cdn.simpleicons.org/numpy" width="45" />
   <img src="https://cdn.simpleicons.org/pandas" width="45" />
 </p> -->
->
 
 ---
 
@@ -163,7 +158,8 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-# 📊 Current GitHub Stats
+# 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vkumxr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   &nbsp;&nbsp;
@@ -172,7 +168,7 @@ I’m an Engineering student passionate about understanding how systems work at 
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight&hide_border=true" />
 </p>
