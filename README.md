@@ -195,5 +195,5 @@ I’m an Engineering student passionate about understanding how systems work at 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
 </p>
