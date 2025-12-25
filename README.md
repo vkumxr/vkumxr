@@ -1,20 +1,18 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7A0000,2A0000&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
 </p>
-
-
-
-
 
 <!-- Typing SVG -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=CC0000&center=true&vCenter=true&width=650&pause=1200&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems&text_color=CC0000&repeat=true"
+    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=0969DA&center=true&vCenter=true&width=650&pause=1200&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems&text_color=0969DA&repeat=true"
     alt="typing"
-    style="filter: drop-shadow(0 0 4px #ff4d4d);"
+    style="filter: drop-shadow(0 0 4px #0969DA);"
   />
 </p>
+
+
 
 
 
@@ -203,6 +201,7 @@ I’m an Engineering student focused on understanding *how systems actually work
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B03030&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" />
 </p>
+
 
