@@ -163,10 +163,31 @@ I’m an Engineering student focused on understanding *how systems actually work
 
 ---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vkumxr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=vkumxr&theme=cobalt&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vkumxr&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vkumxr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vkumxr&theme=cobalt&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
 
 ---
 
