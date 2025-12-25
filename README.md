@@ -4,13 +4,13 @@
 </p>
 
 <!-- Typing SVG -->
-<div align="center" style="background:#0b1220; padding:14px 0; border-radius:10px;">
+<p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=00E5FF&center=true&vCenter=true&width=650&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems"
+    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=800000&background=F8EAEAFF&center=true&vCenter=true&width=650&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems"
     alt="typing"
-    style="filter: drop-shadow(0 0 6px #00e5ff) drop-shadow(0 0 14px #00e5ff);"
   />
-</div>
+</p>
+
 
 
 ---
