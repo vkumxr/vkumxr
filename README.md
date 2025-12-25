@@ -1,15 +1,22 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B03030&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7A0000,2A0000&height=120&section=header&text=V%20Vishwa%20Kumar&fontSize=40&fontColor=ffffff" />
 </p>
+
+
+
+
 
 <!-- Typing SVG -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=800000&background=F8EAEAFF&center=true&vCenter=true&width=650&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems"
+    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=CC0000&center=true&vCenter=true&width=650&pause=1200&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems&text_color=CC0000&repeat=true"
     alt="typing"
+    style="filter: drop-shadow(0 0 4px #ff4d4d);"
   />
 </p>
+
+
 
 
 
@@ -166,17 +173,16 @@ I’m an Engineering student focused on understanding *how systems actually work
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkumxr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vkumxr&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vkumxr&theme=cobalt&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vkumxr&theme=shadow_red&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkumxr&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
 
 ---
 
