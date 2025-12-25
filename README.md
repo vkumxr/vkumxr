@@ -171,7 +171,7 @@ I’m an Engineering student focused on understanding *how systems actually work
 ---
 
 ## 📈 Contribution Graph
-![Vishwa's GitHub contributions](https://github.pumbas.net/api/contributions/vkumxr)
+![Vishwa’s GitHub contributions](https://github.pumbas.net/api/contributions/vkumxr?color=800000&scale=0.7&bg=ffffff&radius=6)
 
 ---
 
