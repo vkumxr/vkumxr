@@ -72,16 +72,16 @@ I’m an Engineering student focused on understanding *how systems actually work
 
 ## 🔗 Profiles
 <p align="center">
-  <a href="https://github.com/vkumxr">
-    <img src="https://cdn.simpleicons.org/github/181717" height="40" />
-  </a>
+ <a href="https://github.com/vkumxr">
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40" />
+</a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/vishwakumar_vk/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishwakumarv/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/vkumxrr/">
@@ -89,8 +89,8 @@ I’m an Engineering student focused on understanding *how systems actually work
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/vkumxr">
-    <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="40" />
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-ar21.svg" height="40" />
+</a>
   &nbsp;&nbsp;
   <a href="https://app.hackthebox.com/users/2569138">
     <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" />
