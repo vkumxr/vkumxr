@@ -62,7 +62,7 @@ I’m an Engineering student focused on understanding *how systems actually work
 ---
 
 ## 🌐 Portfolio
-🔗 **https://vkumxr.github.io**
+🔗 **https://vishwakumar.lovable.app**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=32CD32&style=flat" />
@@ -73,27 +73,27 @@ I’m an Engineering student focused on understanding *how systems actually work
 ## 🔗 Profiles
 <p align="center">
   <a href="https://github.com/vkumxr">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
+    <img src="https://cdn.simpleicons.org/github/181717" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/vishwakumar_vk/">
-    <img src="https://cdn.simpleicons.org/instagram/ffffff" height="40" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishwakumarv/">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/vkumxrr/">
-    <img src="https://cdn.simpleicons.org/leetcode/ffffff" height="40" />
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/vkumxr">
-    <img src="https://cdn.simpleicons.org/tryhackme/ffffff" height="40" />
+    <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://app.hackthebox.com/users/2569138">
-    <img src="https://cdn.simpleicons.org/hackthebox/ffffff" height="40" />
+    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" />
   </a>
 </p>
 
