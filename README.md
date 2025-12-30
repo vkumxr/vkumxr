@@ -71,7 +71,7 @@ I’m an Engineering student focused on understanding *how systems actually work
 ---
 
 ## 🔗 Profiles
-<p align="center">
+<p align="left">
  <a href="https://github.com/vkumxr">
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40" />
 </a>
