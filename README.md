@@ -89,8 +89,8 @@ I’m an Engineering student focused on understanding *how systems actually work
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/vkumxr">
-  <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-ar21.svg" height="40" />
-</a>
+    <img src="https://tryhackme.com/img/favicon.png" height="40" />
+  </a>
   &nbsp;&nbsp;
   <a href="https://app.hackthebox.com/users/2569138">
     <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" />
