@@ -5,52 +5,31 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=0969DA&center=true&vCenter=true&width=650&pause=1200&lines=Programmer;Cybersecurity+%26+AI;Building+AI+Automation+Systems&text_color=0969DA&repeat=true"
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=32&font=DotGothic16&color=0969DA&center=true&vCenter=true&width=650&pause=1200&lines=Cybersecurity+Aspirant;Ethical+Hacking;Reverse+Engineering;Malware+Analysis;Building+AI+for+Security&repeat=true"
     alt="typing"
-    style="filter: drop-shadow(0 0 4px #0969DA);"
+    style="filter: drop-shadow(0 0 4px #0969DA);" 
   />
 </p>
+
 
 ---
 
 ## 👋 Hi, I’m Vishwa Kumar
 
-**Linux & Cybersecurity Enthusiast | AI & Robotics | System-Level Software**
+I build and explore deep-tech tools at the intersection of system internals, security analysis, and hardware-aware software.
+I study how systems break so they can be secured.
 
-I build **deep-tech tools** at the intersection of **software internals, security analysis, and hardware-aware systems**.
-
-I’m an Engineering student focused on understanding *how systems actually work* — from Linux internals and low-level behavior to AI-assisted reverse engineering and automation. I enjoy designing, breaking, instrumenting, and rebuilding systems to reason about them at a fundamental level.
-
----
-
-## 🧠 What I’m Actively Working On
-- **ReDroid-AI** — AI-assisted static analysis & reverse engineering for Android APKs  
-- Linux-based **system automation & security tooling**  
-- Experimental **AI pipelines** for behavioral, structural, and signal-level analysis  
-
----
-
-## ⭐ Featured Projects
-- **ReDroid-AI [WIP]** → AI-powered Android reverse engineering framework  
-- **IntelliBank-AI** → AI-based banking assistant (Java backend)  
-- **Pubot** → Robotics + control systems + AI experimentation  
+I’m an Engineering student focused on understanding how systems actually work — from Linux internals and low-level behavior to AI-assisted reverse engineering and automation.
+I enjoy designing, breaking, instrumenting, and rebuilding systems to reason about them at a fundamental level.
 
 ---
 
 ## 🚀 Highlights
 - Built **teleoperated systems**, AI-driven utilities, and system-level tools  
-- Hands-on experience with **embedded systems**, Linux internals, and networking  
+- Hands-on experience with Linux internals, and networking  
 - Developed multiple **experimental & learning-driven repositories**  
 - Active in **open-source workflows** using Linux, GitHub, and automation  
-
----
-
-## 🎯 Current Focus Areas
-- AI-integrated embedded & robotics projects  
-- Cybersecurity labs, CTF practice, and traffic/network analysis  
-- Automation tooling, backend systems, and security utilities  
-- Strengthening **low-level Linux & system engineering** foundations  
 
 ---
 
@@ -140,6 +119,7 @@ I’m an Engineering student focused on understanding *how systems actually work
 <p align="left">
   <img src="https://cdn.simpleicons.org/spring" width="45" />
   <img src="https://cdn.simpleicons.org/mysql" width="45" />
+  <img src="https://cdn.simpleicons.org/node.js" width="45" />
 </p>
 
 <!-- ## ML / Data Science
