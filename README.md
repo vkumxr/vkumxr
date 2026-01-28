@@ -63,9 +63,11 @@ I enjoy designing, breaking, instrumenting, and rebuilding systems to reason abo
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/vkumxrr/">
-    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="40" />
-  </a>
+  <!--
+<a href="https://leetcode.com/u/vkumxr/">
+  <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="40" />
+</a>
+-->
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/vkumxr">
     <img src="https://tryhackme.com/img/favicon.png" height="40" />
