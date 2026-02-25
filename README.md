@@ -43,7 +43,7 @@ I enjoy designing, breaking, instrumenting, and rebuilding systems to reason abo
 ---
 
 ## 🌐 Portfolio
-🔗 **https://vishwakumar.lovable.app**
+🔗 **https://vkumxr.github.io**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vkumxr&label=Profile%20Views&color=32CD32&style=flat" />
