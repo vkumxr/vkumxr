@@ -4,9 +4,23 @@
 
 # V Vishwa Kumar
 
-Reverse engineering & cybersecurity aspirant. Building system-level tools and AI-assisted analysis.
-I break systems to understand them — then rebuild them better.
+I’m an engineering student focused on cybersecurity and low-level system understanding, with a strong interest in how real-world systems break and how to secure them.
 
+My work revolves around Linux environments, offensive security techniques, and security automation. I enjoy going beyond surface-level development to analyze system behavior, find weaknesses, and build tools that improve security workflows.
+
+Current focus areas:
+• Offensive security & penetration testing labs (TryHackMe, CTFs)
+• Linux internals, networking, and system exploitation
+• Security automation using Python, Bash, and scripting
+• Web & Android security fundamentals
+
+Hands-on experience with:
+• Vulnerability assessment & exploitation labs
+• Bug bounty methodology and recon techniques
+• Password cracking, enumeration, and privilege escalation
+• Linux-based workflows and system-level debugging
+
+I’m driven by curiosity and hands-on learning, aiming to grow into a professional cybersecurity engineer who understands systems deeply rather than relying only on tools.
 ---
 
 ## 🧠 Skills
