@@ -21,6 +21,7 @@ Hands-on experience with:
 • Linux-based workflows and system-level debugging
 
 I’m driven by curiosity and hands-on learning, aiming to grow into a professional cybersecurity engineer who understands systems deeply rather than relying only on tools.
+
 ---
 
 ## 🧠 Skills
